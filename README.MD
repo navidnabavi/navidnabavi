@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navidnabavi&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidnabavi&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navidnabavi&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidnabavi&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 ## 🌍 Languages
