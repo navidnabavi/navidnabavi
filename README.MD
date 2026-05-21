@@ -12,7 +12,7 @@
 
 ## 🧭 About Me
 
-- 🏢 Engineering Manager at **Snapp!** — leading cross functional teams
+- 🏢 Engineering Manager at **Snapp!**
 - ☁️ Extensive background in **cloud infrastructure** — building and operating Kubernetes clusters, OpenStack platforms, IAM systems, and SRE practices at scale
 - 👥 **11+ years** in software industry, **6+ years** leading cross-functional teams
 - 🤖 Passionate about **ML systems**, **distributed architecture**, and **development productivity**
